@@ -1,0 +1,8 @@
+﻿Tilitapahtumat   
+-----------------
+Tilinomistaja Arvo Varakas, 	 vuokralainen Seiska Asukas, Asunto1, 	 ja maksettu summa 800,00 Euroa
+Tilinomistaja Arvo Varakas, 	 vuokralainen Seiska Asukas, Asunto2, 	 ja maksettu summa 700,00 Euroa
+Tilinomistaja Arvo Varakas, 	 vuokralainen Kuusi Asukas, Asunto2, 	 ja maksettu summa 900,00 Euroa
+Tilinomistaja Arvo Varakas, 	 vuokralainen Kasi Asukas, Asunto2, 	 ja maksettu summa 400,00 Euroa
+Tilinomistaja Anni Omistaja, 	 vuokralainen Kolmas Asukas, Asunto1, 	 ja maksettu summa 300,99 Euroa
+Tilinomistaja Oudohko Omistaja, 	 vuokralainen Kahdeksas Asukas, Asunto2, 	 ja maksettu summa 555,55 Euroa

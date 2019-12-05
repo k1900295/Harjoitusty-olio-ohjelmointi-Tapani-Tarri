@@ -1,0 +1,6 @@
+﻿Tilinomistajat:
+----------------
+
+Tilinomistajan nimi: 	Arvo Varakas	 Tilitapahtuman päiväys ja aika: 	28.11.2019 21.32.07
+Tilinomistajan nimi: 	Anni Omistaja	 Tilitapahtuman päiväys ja aika: 	28.11.2019 17.06.19
+Tilinomistajan nimi: 	Oudohko Omistaja	 Tilitapahtuman päiväys ja aika: 	29.11.2019 17.58.29
